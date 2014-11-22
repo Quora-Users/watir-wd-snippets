@@ -1,12 +1,7 @@
-watir-wd-snippets
-=================
+PROJECT MOVED
+================
 
-Snippets based on using the Watir Webdriver
+Please navigate to [quora-webdriver](https://github.com/kratsg/quora-webdriver) for the maintenance of the new project.
 
-auto-scroll.rb
 -----------------
 Author: Giordon Stark <kratsg@gmail.com>
-Requirements:
-- [watir-webdriver](http://watirwebdriver.com/)
-- [phantomjs](http://phantomjs.org/) (or a similarly headless WebKit scriptable)
-- [Ruby](https://www.ruby-lang.org/en/) (obviously)
